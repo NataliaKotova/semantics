@@ -1,2 +1,2 @@
 # semantics
-semantic elements from html 5
+html 5
